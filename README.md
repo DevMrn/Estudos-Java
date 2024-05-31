@@ -1,3 +1,3 @@
-# Estudos-Java
+# Estudos Java
 
 Aprendizado básico de Java
